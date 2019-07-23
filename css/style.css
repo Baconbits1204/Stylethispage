@@ -1,6 +1,6 @@
 Style.css
 
-.center{text-align: center;}
+.center{text-align:centered:}
 
 .red{color:red;}
 
@@ -17,5 +17,7 @@ Style.css
 .font-family{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
 
 .attributes{color:orange; font-size: 130px; font-weight:bold;}
+
+.styledfont{color:blue; font-size: 80px; 
 
 #styledimage{border:5px red solid;}
