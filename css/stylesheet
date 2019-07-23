@@ -1,6 +1,6 @@
 Style.css
 
-.center{text-align: center;}
+.center{text-align:center;}
 
 .red{color:red;}
 
